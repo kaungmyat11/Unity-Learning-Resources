@@ -9,4 +9,4 @@
 
 ### Free Books
 
-* [Game Programming Patterns] (https://gameprogrammingpatterns.com/contents.html)
+* [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
