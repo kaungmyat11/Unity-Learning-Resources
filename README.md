@@ -2,6 +2,7 @@
 
 ## Intro
 :free: = 100% Free
+:heavy_dollar_sign: = Paid
 
 ## Courses
 
@@ -15,14 +16,16 @@ These are specialization courses in Coursera. You can access the courses for fre
 * [Unity Certified Programmer Exam Preparation Specialization](https://www.coursera.org/specializations/unity-certified-programmer))
 * [Unity XR: How to Build AR and VR Apps Specialization](https://www.coursera.org/specializations/unity-xr)
 
-### Udacity (Free Courses)
-* [Engagement & Monetization | Mobile Games](https://www.udacity.com/course/engagement-monetization-mobile-games--ud407)
+### Udacity
+* [Engagement & Monetization | Mobile Games :free:](https://www.udacity.com/course/engagement-monetization-mobile-games--ud407)
 
 ## Books
 
 ### Game Programming Books
 
 * [Game Programming Patterns :free:](https://gameprogrammingpatterns.com/contents.html)
+* [Mathematics for 3D Game Programming and Computer Graphics :heavy_dollar_sign:](https://www.amazon.com/Mathematics-Programming-Computer-Graphics-Third/dp/1435458869/ref=sr_1_1?ie=UTF8&qid=1530297363&sr=8-1&keywords=Mathematics+for+3D+Game+Programming+and+Computer+Graphics)
+* [Essential Mathematics for Games and Interactive Applications :heavy_dollar_sign:](https://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/1482250926/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=YZ002XR6P6ZFGK7XQ8QJ)
 
 ## Tutorials
 
