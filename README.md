@@ -1,6 +1,7 @@
 # Resources For Learning Unity Game Development
 
 ## Intro
+:free: = 100% Free
 
 ## Courses
 
@@ -19,10 +20,18 @@ These are specialization courses in Coursera. You can access the courses for fre
 
 ## Books
 
-### Free Books
+### Game Programming Books
 
-* [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
+* [Game Programming Patterns :free:](https://gameprogrammingpatterns.com/contents.html)
 
 ## Tutorials
 
 * [C# and Shader Tutorials for the Unity Engine](https://catlikecoding.com/unity/tutorials/)
+
+### Youtube Tutorials
+
+
+
+## Mathematics 
+
+* [immersive linear algebra](http://immersivemath.com/ila/index.html)
